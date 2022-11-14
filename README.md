@@ -1,0 +1,1 @@
+# Mini-Application-Transactional-with-Fundamental-Python-Study-Case-Hospital-Patient-Data-
